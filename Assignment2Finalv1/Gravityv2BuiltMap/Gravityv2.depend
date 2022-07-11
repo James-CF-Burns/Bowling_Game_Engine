@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1559370912 source:d:\computergraphics\gravityv2\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	"ReadOff.h"
+
+1557456662 source:d:\computergraphics\gravityv2\readoff.cpp
+
+1557456662 d:\computergraphics\gravityv2\readoff.h
+
+1559666049 source:c:\users\cc\desktop\ict289\assi2current\gravityv2\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	"ReadOff.h"
+
+1557456664 c:\users\cc\desktop\ict289\assi2current\gravityv2\readoff.h
+
+1557456664 source:c:\users\cc\desktop\ict289\assi2current\gravityv2\readoff.cpp
+
+1557456664 source:c:\users\cc\desktop\ict289\assi2current\gravityv2directionalthrow\readoff.cpp
+
+1559731257 source:c:\users\cc\desktop\ict289\assi2current\gravityv2directionalthrow\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	"ReadOff.h"
+
+1557456664 c:\users\cc\desktop\ict289\assi2current\gravityv2directionalthrow\readoff.h
+
+1559743800 source:d:\computergraphics\gravityv2builtmap\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	"ReadOff.h"
+
+1559733143 d:\computergraphics\gravityv2builtmap\readoff.h
+
+1559733143 source:d:\computergraphics\gravityv2builtmap\readoff.cpp
+
+1559748125 source:c:\users\cc\desktop\ict289\assi2current\assignment2finalv1\gravityv2builtmap\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	"ReadOff.h"
+
+1559733144 c:\users\cc\desktop\ict289\assi2current\assignment2finalv1\gravityv2builtmap\readoff.h
+
+1559733144 source:c:\users\cc\desktop\ict289\assi2current\assignment2finalv1\gravityv2builtmap\readoff.cpp
+
+1559783410 source:c:\users\james\downloads\assignment2finalv1\assignment2finalv1\gravityv2builtmap\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	"ReadOff.h"
+
+1559782992 c:\users\james\downloads\assignment2finalv1\assignment2finalv1\gravityv2builtmap\readoff.h
+
+1559782992 source:c:\users\james\downloads\assignment2finalv1\assignment2finalv1\gravityv2builtmap\readoff.cpp
+
+1559891148 source:d:\computergraphics\assignment2finalv1\gravityv2builtmap\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	"ReadOff.h"
+
+1559782992 d:\computergraphics\assignment2finalv1\gravityv2builtmap\readoff.h
+
+1559782992 source:d:\computergraphics\assignment2finalv1\gravityv2builtmap\readoff.cpp
+
+1559891150 source:e:\computergraphics\ict289_group19_assignment2\assignment2finalv1\gravityv2builtmap\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	"ReadOff.h"
+
+1559782994 e:\computergraphics\ict289_group19_assignment2\assignment2finalv1\gravityv2builtmap\readoff.h
+
+1559782994 source:e:\computergraphics\ict289_group19_assignment2\assignment2finalv1\gravityv2builtmap\readoff.cpp
+
